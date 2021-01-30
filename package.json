@@ -1,0 +1,23 @@
+{
+  "name": "emmacraig.github.io",
+  "version": "1.0.0",
+  "description": "This is my web dev portfolio",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "compile:sass": "node-sass sass/main.scss css/styles.css -w"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/emmaryal/emmacraig.github.io.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/emmaryal/emmacraig.github.io/issues"
+  },
+  "homepage": "https://github.com/emmaryal/emmacraig.github.io#readme",
+  "devDependencies": {
+    "node-sass": "^5.0.0"
+  }
+}

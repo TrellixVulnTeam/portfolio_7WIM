@@ -1,2 +1,2 @@
-# portfolio
-my portfolio - in pure HTML &amp; CSS
+# emmacraig.github.io
+This is my web dev portfolio
